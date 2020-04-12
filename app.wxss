@@ -1,0 +1,10 @@
+/* 
+  小程序全局样式
+*/
+/* 引入阿里字体图标 */
+@import './styles/styles.wxss';
+
+
+page,view,image,swiper,swiper-item,navigator,video {
+  box-sizing: border-box;
+}
